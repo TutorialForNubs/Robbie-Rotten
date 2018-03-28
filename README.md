@@ -1,9 +1,9 @@
-# Robbie-Rotten
+<h1>Robbie-Rotten</h1>
 A simplistic, user-powered Discord pirating bot.
 
 <h2>Disclaimers</h2>
-1. This bot and it's owner(s) are not responsible for any viruses that may be uploaded or downloaded.
-2. I, LumiteDubbz, do not condone pirating or Torrenting of any kind, this bot is a programming project only.
+1. This bot and it's owner(s) are not responsible for any viruses that may be uploaded or downloaded.<br>
+2. I, LumiteDubbz, do not condone pirating or Torrenting of any kind, this bot is a programming project only.<br>
 
 <h2>Basic setup</h2>
 This will be DMed to the guild owner upon being invited:
